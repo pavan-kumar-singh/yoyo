@@ -1,7 +1,3 @@
 # yoyo
 
-pavankumar singh
-pavankumar singh
-pavankumar singh
-pavankumar singh
-pavankumar singh
+practice set : java
