@@ -30,6 +30,6 @@ public class App
 		sess.save(l5);
 		
 		tx.commit();
-		
+		System.out.print("hello pavan");
     }
 }
