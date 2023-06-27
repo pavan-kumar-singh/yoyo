@@ -31,7 +31,7 @@ public class App
 		
 		tx.commit();
 		
-		System.out.println("jai shri ram");
+		
 		
     }
 }
