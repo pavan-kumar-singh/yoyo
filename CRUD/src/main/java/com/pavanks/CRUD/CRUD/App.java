@@ -31,5 +31,8 @@ public class App
 		
 		tx.commit();
 		System.out.print("hello pavan");
+		System.out.print("hello pavan");	    
+		System.out.print("hello pavan");
+		System.out.print("hello pavan");
     }
 }
